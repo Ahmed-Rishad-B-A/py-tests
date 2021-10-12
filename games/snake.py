@@ -124,4 +124,7 @@ def gameLoop():
     quit()
  
  
-gameLoop(
+gameLoop()
+
+
+#snake game usong python
